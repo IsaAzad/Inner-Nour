@@ -1,6 +1,5 @@
 # Inner-Nour
-A multi-page wellness web app promoting self-care, productivity and healthy habits.
-
+A multi-page wellness web app promoting self-care and productivity with an emphasis on mental health.
 
 
 Installation Guide:
